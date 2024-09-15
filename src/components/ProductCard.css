@@ -45,3 +45,11 @@
 .product button:hover {
   background-color: #103f80;
 }
+
+.product .remove {
+  background-color: #ac0d14;
+}
+
+.product .remove:hover {
+  background-color: #8e090f;
+}
